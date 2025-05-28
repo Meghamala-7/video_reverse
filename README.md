@@ -12,14 +12,15 @@ Tap on reverse
 
 Video is played in the browser
 
-#Requirements
+# Requirements
 
 Python 3.x version
 
 installed numpy, openCV, MoviePy libraries
 
 
-#COMMANDS USED
+# COMMANDS USED
+
 python --version
 
 pip --version
@@ -43,7 +44,7 @@ mkdir reversed)
 
 python app.py
 
-#open in browser
+# open in browser
 http://localhost:5000 to access.
 
 
